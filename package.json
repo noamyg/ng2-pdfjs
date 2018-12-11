@@ -1,6 +1,5 @@
 {
   "_from": "pdfjs-dist@2.0.943",
-  "_id": "pdfjs-dist@2.0.943",
   "_inBundle": false,
   "_integrity": "sha512-iLhNcm4XceTHRaSU5o22ZGCm4YpuW5+rf4+BJFH/feBhMQLbCGBry+Jet8Q419QDI4qgARaIQzXuiNrsNWS8Yw==",
   "_location": "/pdfjs-dist",
@@ -48,7 +47,7 @@
   ],
   "license": "Apache-2.0",
   "main": "build/pdf.js",
-  "name": "pdfjs-dist",
+  "name": "@noamyg/pdfjs-dist",
   "peerDependencies": {
     "webpack": "^3.0.0 || ^4.0.0-alpha.0 || ^4.0.0"
   },
@@ -56,5 +55,5 @@
     "type": "git",
     "url": "git+https://github.com/mozilla/pdfjs-dist.git"
   },
-  "version": "2.0.943"
+  "version": "1.0.0"
 }
