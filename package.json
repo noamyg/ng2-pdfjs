@@ -47,7 +47,7 @@
   ],
   "license": "Apache-2.0",
   "main": "build/pdf.js",
-  "name": "@noamyg/pdfjs-dist",
+  "name": "pdfjs-dist",
   "peerDependencies": {
     "webpack": "^3.0.0 || ^4.0.0-alpha.0 || ^4.0.0"
   },
